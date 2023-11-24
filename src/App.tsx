@@ -24,7 +24,7 @@ export default function App() {
       }}>
       <ImageSlider images={IMAGES} />
       <a href="/" style={{ fontSize: "4rem" }}>
-        Skip Image Slider
+        Link
       </a>
     </div>
   );
