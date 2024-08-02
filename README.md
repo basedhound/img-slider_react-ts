@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://img-slider-react.netlify.app/" target="_blank">
-      <img src="public/design/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.jpg" alt="Project Banner">
     </a>
   <h3 align="center">Image Slider - React / TypeScript</h3>
 </div>
