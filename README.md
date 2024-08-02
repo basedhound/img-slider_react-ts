@@ -1,28 +1,69 @@
-# React + TypeScript + Vite
+<div align="center">
+    <a href="https://img-slider-react.netlify.app/" target="_blank">
+      <img src="public/design/preview.webp" alt="Project Banner">
+    </a>
+  <h3 align="center">Image Slider - React / TypeScript</h3>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  <br /> 📋 <a name="table">Table of Contents</a>
 
-Currently, two official plugins are available:
+- ✨ [Introduction](#introduction)
+- ⚙️ [Tech Stack](#tech-stack)
+- 📝 [Features](#features)
+- 🚀 [Quick Start](#quick-start)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  <br /> <a name="introduction">✨ Introduction</a>
 
-## Expanding the ESLint configuration
+**[EN]** A custom image slider built from scratch using React and TypeScript, without relying on additional React libraries.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+**[FR]** Un carrousel d'images construit de zéro avec React et TypeScript, sans se fier à des bibliothèques React supplémentaires.
 
-- Configure the top-level `parserOptions` property like this:
+##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+
+- **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
+
+- **Vite** is a modern front-end build tool that offers a fast and efficient development environment. It leverages ES modules for quick build times and features hot module replacement (HMR) for instant updates, making it ideal for frameworks like React, Vue, and Svelte. Vite's minimal configuration helps streamline development workflows.
+
+
+## <br /> <a name="quick-start">🚀 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+<br/>**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+<br/>**Cloning the Repository**
+
+```bash
+git clone {git remote URL}
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# img-slider-pro_react
+<br/>**Installation**
+
+Let's install the project dependencies, from your terminal, run:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+
+<br/>**Running the Project**
+
+Installation will take a minute or two, but once that's done, you should be able to run the following command:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [`http://localhost:5173`](http://localhost:5173) in your browser to view the project.
