@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://img-slider-react.netlify.app/" target="_blank">
-      <img src="public/design/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Image Slider - React / TypeScript</h3>
 </div>
@@ -20,13 +20,13 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
 
-- **Vite** is a modern front-end build tool that offers a fast and efficient development environment. It leverages ES modules for quick build times and features hot module replacement (HMR) for instant updates, making it ideal for frameworks like React, Vue, and Svelte. Vite's minimal configuration helps streamline development workflows.
+- [**Vite**](https://vitejs.dev/guide/) is a modern front-end build tool that offers a fast and efficient development environment. It leverages ES modules for quick build times and features hot module replacement (HMR) for instant updates, making it ideal for frameworks like React, Vue, and Svelte. Vite's minimal configuration helps streamline development workflows.
 
-- **Lucide React** is a lightweight, modern icon library for React applications. It provides a collection of clean, customizable icons that can be easily integrated into React projects. Lucide React focuses on performance and simplicity, offering a straightforward API for efficient usage. It supports various icon styles and sizes, making it easy to tailor the icons to fit the design of your application.
+- [**Lucide React**](https://lucide.dev/guide/packages/lucide-react) is a lightweight, modern icon library for React applications. It provides a collection of clean, customizable icons that can be easily integrated into React projects. Lucide React focuses on performance and simplicity, offering a straightforward API for efficient usage. It supports various icon styles and sizes, making it easy to tailor the icons to fit the design of your application.
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
